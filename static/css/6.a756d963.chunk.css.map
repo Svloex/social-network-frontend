@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Music/music.module.css"],"names":[],"mappings":"AAAA,oBACI,iBAAkB,CAClB,gBAAiB,CACjB,sBACJ","file":"6.a756d963.chunk.css","sourcesContent":[".aHref {\r\n    padding-left: 12px;\r\n    padding-top: 12px;\r\n    border: 1px green solid;\r\n}"]}
